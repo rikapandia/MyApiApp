@@ -69,4 +69,4 @@ Scan QR code dengan **Expo Go** di HP.
 ## 🔗 Link
 
 - **Expo Snack:** (https://snack.expo.dev/@boraborii/-pokedex-app)
-- **GitHub Repo:** [Link Repo](https://github.com/) ← ganti dengan link kamu
+- **GitHub Repo:** (https://github.com/rikapandia/MyApiApp)
