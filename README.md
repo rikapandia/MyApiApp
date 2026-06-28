@@ -8,11 +8,11 @@ Aplikasi mobile React Native (Expo) yang menampilkan data Pokemon dari **PokeAPI
 
 | Loading | Success | Error |
 |---------|---------|-------|
-| ![Loading](./assets/loading.jpg) | ![Success](./assets/success.jpg) | ![Error](assets/images/error.jpeg) |
+| ![Loading](assets/images/loading.jpeg) | ![Success](assets/images/success.jpeg) | ![Error](assets/images/error.jpeg) |
 
 | Search/Filter | Pull-to-Refresh | Detail Modal |
 |---------------|-----------------|--------------|
-| ![Search](./assets/search.jpg) | ![Pull](./assets/pull-to-refresh.jpg) | ![Detail](./assets/detail.jpg) |
+| ![Search](assets/images/search.jpeg) | ![Pull](assets/images/pull-to-refresh.jpeg) | ![Detail](assets/images/detail.jpeg) |
 
 ---
 
